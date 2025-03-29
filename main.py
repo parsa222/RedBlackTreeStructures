@@ -7,7 +7,7 @@ import math
 
 
 
-#go at the very button to change the varieble
+#go to the end of this file to change the variables
 
 class RBNode:
     def __init__(self, value, color='red'):
